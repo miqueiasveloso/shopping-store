@@ -34,9 +34,9 @@ It features product listings, a shopping cart with add/remove functionality, and
 
 ## 🔗 Live Demo
 
-👉 [Check out the live site](https://yourusername.github.io/shopping-store)
+👉 [Check out the live site](https://miqueiasveloso.github.io/shopping-store)
 
 ---
 
-## 📁 Folder Structure
+
 
